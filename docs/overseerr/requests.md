@@ -3,7 +3,7 @@ title: Requests
 sidebar_position: 2
 description: “Come on, Connie, pick something.”
 last_update:
-  date: 2023-07-31T20:37-04:00
+  date: 2024-05-01T04:57-04:00
   author: Andrew Shaffer
 ---
 
@@ -17,7 +17,7 @@ Please be aware that requests made using Overseerr are visible to **all other us
 
 ## Making Requests
 
-You can search for new movies and series using the search bar at the top of the screen. You can also browse popular movies/series using the tabs on the left of the screen or in the various sections of the home screen.
+You can search for new movies and series using the search bar at the top of the screen. You can also browse popular movies/series using the tabs on the left (or bottom) of the screen or in the various sections of the home screen.
 
 :::tip
 
@@ -30,6 +30,14 @@ Once approved, movie requests should begin downloading automatically, but TV req
 ### Requesting Movies
 
 Once you've found an item you'd like to request, you can either click/tap the Request button on the poster, or click/tap the poster itself for more information on the title (cast, crew, similar titles, runtime, etc.). Once you click/tap Request, a pop-up will display asking you to confirm this request.
+
+:::info
+
+If you request a movie that is not released yet, Overseerr will still process the request, but the movie **may not be immediately available** in Plex. Typically, once a digital copy can be found (around the time it is released online for purchase or streaming), it will download automatically and import into Plex.
+
+:::
+
+While viewing a movie in Overseerr, you may notice a bar that links to a film's collection. For example, if you search "tremors" and view the info page for *Tremors* (1990), there will be a link to "Tremors Collection" near the top of the page. If you click on this link, it will show you the entire franchise of whichever film you searched and allow you to request an entire collection at once.
 
 ### Requesting TV Series
 
