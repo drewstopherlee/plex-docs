@@ -1,7 +1,7 @@
 ---
 title: Getting Started
 sidebar_position: 2
-description: ""Oh yeah, it's all coming together...""
+description: '“Oh yeah, it's all coming together...”'
 ---
 
 If you're here, you were probably invited to join my Plex server. The first step is to send me the email address you will use to create your free Plex account. If you've already done this: excellent, continue reading!
