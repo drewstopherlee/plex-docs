@@ -34,6 +34,6 @@ For convenience, Plex provides an online web client you can use to watch content
 
 :::danger
 
-However, using the web client for media playback **should be avoided** when possible as it is inefficient and puts unnecessary strain on the Plex server hardware. There is a Plex app available for <a href="https://www.plex.tv/media-server-downloads/?cat=plex+desktop&plat=windows" target="_blank">Windows</a>, <a href="https://www.plex.tv/media-server-downloads/?cat=plex+desktop&plat=macos" target="_blank">macOS</a>, and <a href="https://www.plex.tv/media-server-downloads/?cat=plex+desktop&plat=linux" target="_blank">Linux</a>; these are preferred over the web client!
+Using the web client for media playback **should be avoided** when possible as it is inefficient and puts unnecessary strain on the Plex server hardware. There is a Plex app available for <a href="https://www.plex.tv/media-server-downloads/?cat=plex+desktop&plat=windows" target="_blank">Windows</a>, <a href="https://www.plex.tv/media-server-downloads/?cat=plex+desktop&plat=macos" target="_blank">macOS</a>, and <a href="https://www.plex.tv/media-server-downloads/?cat=plex+desktop&plat=linux" target="_blank">Linux</a>; these are preferred over the web client!
 
 :::
