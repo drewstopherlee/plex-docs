@@ -68,6 +68,11 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
+      colorMode: {
+        defaultMode: 'dark',
+        disableSwitch: false,
+        respectPrefersColorScheme: true,
+      },
       image: 'img/social-card.png',
       navbar: {
         title: 'Plex Docs',
@@ -89,7 +94,7 @@ const config = {
           {
             href: 'https://status.shaffer.media/',
             label: 'Status Page',
-            position: 'left',
+            position: 'right',
           },
           // {to: '/blog', label: 'Blog', position: 'left'},
           {
