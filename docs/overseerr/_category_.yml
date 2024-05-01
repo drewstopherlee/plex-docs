@@ -3,7 +3,7 @@ label: 'Requesting Media & Issues'
 collapsible: true # make the category collapsible
 collapsed: false # keep the category open by default
 link:
-  type: doc
-  id: overseerr
+  type: generated-index
+  title: Overseerr
 customProps:
   description: The next section of the guide will explain how you can request movies and TV shows, file issues when something isn't right, and more.
