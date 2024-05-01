@@ -1,5 +1,5 @@
 ---
-title: Introduction
+title: Home
 hide_table_of_contents: true
 sidebar_position: 1
 image: img/plex-nas.jpg

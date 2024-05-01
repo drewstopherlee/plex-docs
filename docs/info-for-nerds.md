@@ -1,8 +1,6 @@
 ---
 title: Additional Info (for nerds)
-hide_table_of_contents: true
 sidebar_position: 4
-slug: /
 ---
 
 # Plex User Guide

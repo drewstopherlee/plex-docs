@@ -68,7 +68,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/plex-nas.jpg',
+      image: 'img/social-card.png',
       navbar: {
         title: 'Plex Docs',
         logo: {
@@ -77,10 +77,19 @@ const config = {
         },
         items: [
           {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
+            href: 'https://app.plex.tv/',
+            label: 'Plex Web App',
             position: 'left',
-            // label: 'Documentation',
+          },
+          {
+            href: 'https://request.shaffer.media/',
+            label: 'Overseerr',
+            position: 'left',
+          },
+          {
+            href: 'https://status.shaffer.media/',
+            label: 'Status Page',
+            position: 'left',
           },
           // {to: '/blog', label: 'Blog', position: 'left'},
           {
@@ -97,8 +106,16 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
+                label: 'Docs Home',
                 to: '/',
+              },
+              {
+                label: 'Plex User Guide',
+                to: '/plex/introduction',
+              },
+              {
+                label: 'Overseerr User Guide',
+                to: '/overseerr/requests',
               },
             ],
           },
@@ -106,32 +123,28 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: 'GitHub',
+                href: 'https://github.com/drewstopherlee',
               },
               {
                 label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                href: 'https://twitter.com/andrewrshaffer',
               },
             ],
           },
-          {
-            title: 'More',
-            items: [
-              // {
-              //   label: 'Blog',
-              //   to: '/blog',
-              // },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
-              },
-            ],
-          },
+          // {
+          //   title: 'More',
+          //   items: [
+          //     // {
+          //     //   label: 'Blog',
+          //     //   to: '/blog',
+          //     // },
+          //     {
+          //       label: 'GitHub',
+          //       href: 'https://github.com/facebook/docusaurus',
+          //     },
+          //   ],
+          // },
         ],
         copyright: `Copyright © ${new Date().getFullYear()} Andrew Shaffer Technology. Built with Docusaurus.`,
       },

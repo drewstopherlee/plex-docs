@@ -1,3 +1,4 @@
 ---
-sidebar_position: 4
+title: Email Settings
+sidebar_position: 3
 ---
