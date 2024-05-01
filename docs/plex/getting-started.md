@@ -10,13 +10,19 @@ Shortly after, you'll receive an email inviting you to join my server. Click the
 
 Please don't share the account you create with others. If you know someone who you think would enjoy having access to this server, have them contact me. In most cases I'll be happy to add them with their own account. 
 
-:::warning
+:::info
 
 Additionally, if you decide to purchase a Plex Pass (unlocks some paid features within your Plex players), the people you add to your "Plex Home" will not have access to my libraries.
 
 :::
 
 Now's the time to connect your playback devices to your new account. Depending on what you're using, you may need to download and install the Plex app your device, or one may have come pre-installed. (This includes the App Store on iOS/tvOS devices, the Google Play Store on Android devices, and other similar stores and libraries on other platforms like Roku.)
+
+:::warning
+
+If you decide to use Plex on a mobile device (Android or iOS), you will be limited to only watching the first 30 seconds of any media file. The two existing workarounds are to "unlock" the app with a one-time in-app purchase or subscribe to Plex Pass.
+
+:::
 
 Upon first use for most of these platforms, you will either have to log in with your username and password, or link the device with your account when prompted. To link your account, your Smart TV or streaming device will show you a code made of 4 letters or numbers. Simply visit <a href="https://www.plex.tv/link/" target="_blank">plex.tv/link</a> and enter the code (you may have to sign in first if you're not already). This linking process saves you from having to enter your username and password on your TV which can be frustrating.
 
@@ -26,7 +32,7 @@ You can visit the <a href="https://www.plex.tv/media-server-downloads/#plex-app"
 
 For convenience, Plex provides an online web client you can use to watch content at <a href="https://app.plex.tv/" target="_blank">app.plex.tv</a>. This makes it easy to catch up on your favorite shows while traveling or away from your preferred devices. 
 
-:::danger
+:::warning
 
 However, **using the web client should be avoided** when possible as it is inefficient and puts unnecessary strain on the Plex server hardware.
 
