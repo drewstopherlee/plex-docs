@@ -20,7 +20,7 @@ Now's the time to connect your playback devices to your new account. Depending o
 
 :::warning
 
-If you decide to use Plex on a mobile device (Android or iOS), you will be limited to only watching the first 30 seconds of any media file. The two existing workarounds are to "unlock" the app with a one-time in-app purchase or subscribe to Plex Pass. More information is available <a href="https://support.plex.tv/articles/202526943-plex-free-vs-paid/" target="_blank">here</a>. These limitations do not apply to any other platform, including the PC app and the Plex Web App (see below).
+If you decide to use Plex on a mobile device (Android or iOS), you will be limited to only watching the first 30 seconds of any media file. The two existing workarounds are to "unlock" the app with a one-time in-app purchase or subscribe to Plex Pass. More information is available <a href="https://support.plex.tv/articles/202526943-plex-free-vs-paid/" target="_blank">here</a>. These limitations do **not** apply to *any* other platform, including the PC app and the Plex web client (see below).
 
 :::
 
@@ -32,8 +32,8 @@ You can visit the <a href="https://www.plex.tv/media-server-downloads/#plex-app"
 
 For convenience, Plex provides an online web client you can use to watch content at <a href="https://app.plex.tv/" target="_blank">app.plex.tv</a>. This makes it easy to catch up on your favorite shows while traveling or away from your preferred devices. 
 
-:::warning
+:::danger
 
-However, using the web client for media playback **should be avoided** when possible as it is inefficient and puts unnecessary strain on the Plex server hardware.
+However, using the web client for media playback **should be avoided** when possible as it is inefficient and puts unnecessary strain on the Plex server hardware. There is a Plex app available for <a href="https://www.plex.tv/media-server-downloads/?cat=plex+desktop&plat=windows" target="_blank">Windows</a>, <a href="https://www.plex.tv/media-server-downloads/?cat=plex+desktop&plat=macos" target="_blank">macOS</a>, and <a href="https://www.plex.tv/media-server-downloads/?cat=plex+desktop&plat=linux" target="_blank">Linux</a>; these are preferred over the web client!
 
 :::
