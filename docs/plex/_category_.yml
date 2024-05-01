@@ -1,0 +1,9 @@
+position: 2
+label: 'Using Plex'
+collapsible: true # make the category collapsible
+collapsed: false # keep the category open by default
+link:
+  type: generated-index
+  id: plex
+customProps:
+  description: The first section of this guide will walk you through Plex—what it is, how to use it, and what it can do!

@@ -1,5 +1,5 @@
 ---
-title: Introduction
+title: Introduction to Plex
 sidebar_position: 1
 ---
 
@@ -9,7 +9,7 @@ sidebar_position: 1
 
 You can think of Plex as a streaming service like Netflix or Hulu that is operated by someone you know instead of a huge company. What this means is that they have complete control over what content is available, and can often obtain shows and movies that you're looking for (even if they aren't available on other streaming platforms).
 
-## Is Plex Free?
+## Is Plex free?
 
 Server owners typically provide access to close friends and family only and don't charge for it.
 
@@ -26,3 +26,7 @@ As a viewer, you can connect to and watch content on Plex servers for free throu
 Plex is just a collection of software encompassing servers and clients. Plex itself is perfectly legal.
 
 You can use Plex to stream content anywhere *without* worrying about copyright notices or the need to use a VPN or other means to hide your traffic.
+
+## How does all of this stuff work?
+
+I run multiple servers from my home that provides Plex, Overseerr, and all of the backend services that help everything download and process smoothly. If you want more information on the logistics of my setup, you can check out the (Additional Info (for nerds) page)[/info-for-nerds]
