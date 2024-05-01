@@ -81,7 +81,14 @@ If you notice that an item has an HDR overlay and appears very dark on your disp
   </div>
 </details>
 <details>
-  <summary>TV Show Overlays</summary>
+  <summary>Series Overlays</summary>
+  <div>
+    | TV Show Overlays | Episode Overlays |
+    | ![TV Overlays](./img/overlays-3.png#center) | ![Episode Overlays](./img/overlays-4.png#center) |
+  </div>
+</details>
+<!-- <details>
+  <summary>Series Overlays</summary>
   <div>
     ![TV Overlays](./img/overlays-3.png#center)
   </div>
@@ -91,7 +98,7 @@ If you notice that an item has an HDR overlay and appears very dark on your disp
   <div>
     ![Episode Overlays](./img/overlays-4.png#center)
   </div>
-</details>
+</details> -->
 
 If you have ideas for other overlays, please feel free to let me know!
 
