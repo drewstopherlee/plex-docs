@@ -3,7 +3,7 @@ title: Navigation
 sidebar_position: 5
 description: “According to the map, we've only gone four inches.”
 last_update:
-  date: 2024-05-01T03:06-04:00
+  date: 2024-05-01T03:57-04:00
   author: Andrew Shaffer
 ---
 
@@ -66,18 +66,11 @@ If you notice that an item has an HDR overlay and appears very dark on your disp
 <details>
   <summary>Movie Overlays</summary>
   <div>
-    <details>
-      <summary>
-        Example 1
-      </summary>
-      <div>![Movie Overlays 1](./img/overlays-1.png#center)</div>
-    </details>
-    <details>
-      <summary>
-        Example 2
-      </summary>
-      <div>![Movie Overlays 2](./img/overlays-2.png#center)</div>
-    </details>
+
+    | Example 1                                 | Example 2                                 |
+    |-------------------------------------------|-------------------------------------------|
+    | ![Movie Overlays 1](./img/overlays-1.png) | ![Movie Overlays 2](./img/overlays-2.png) |
+
   </div>
 </details>
 <details>
@@ -90,18 +83,6 @@ If you notice that an item has an HDR overlay and appears very dark on your disp
 
   </div>
 </details>
-<!-- <details>
-  <summary>Series Overlays</summary>
-  <div>
-    ![TV Overlays](./img/overlays-3.png#center)
-  </div>
-</details>
-<details>
-  <summary>TV Episode Overlays</summary>
-  <div>
-    ![Episode Overlays](./img/overlays-4.png#center)
-  </div>
-</details> -->
 
 If you have ideas for other overlays, please feel free to let me know!
 
@@ -111,4 +92,4 @@ Playback works very similar to how it does on other streaming services.
 
 On streaming devices, if you push the play button on a title, playback should begin immediately. If you press select/OK/enter, you'll be taken to the information page about a title. For movies this will include a summary and other information. For a TV show, this will go to a list of seasons. And from there you can select a season to view the list of individual episodes.
 
-On a desktop client, when the mouse is over the title image, a Play button will be visible - if you click that, playback should begin. If you click elsewhere on the poster, the process will be similar to selecting on a streaming device.
+On a desktop client, when the mouse is over the title image, a Play button will be visible—if you click that, playback should begin. If you click elsewhere on the poster, the process will be similar to selecting on a streaming device.
