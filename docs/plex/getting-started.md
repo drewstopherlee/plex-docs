@@ -20,7 +20,7 @@ Now's the time to connect your playback devices to your new account. Depending o
 
 :::warning
 
-If you decide to use Plex on a mobile device (Android or iOS), you will be limited to only watching the first 30 seconds of any media file. The two existing workarounds are to "unlock" the app with a one-time in-app purchase or subscribe to Plex Pass. More information is available <a href="https://support.plex.tv/articles/202526943-plex-free-vs-paid/" target="_blank">here</a>. These limitations do **not** apply to *any* other platform, including the PC app and the Plex web client (see below).
+If you decide to use Plex on a mobile device (Android or iOS), you will be limited to only watching the first 30 seconds of any media file. The two existing workarounds are to "unlock" the app with a one-time in-app purchase or subscribe to Plex Pass. <a href="https://support.plex.tv/articles/202526943-plex-free-vs-paid/" target="_blank">More information is available here.</a> These limitations do **not** apply to *any* other platform, including the PC app and the Plex web client (see below).
 
 :::
 
