@@ -1,12 +1,14 @@
 ---
 title: Introduction
 hide_table_of_contents: true
-sidebar_position: 1
+# sidebar_position: 1
 image: img/plex-nas.jpg
 slug: /
 ---
 
 # Plex User Guide
+
+![plex-nas](/img/plex-nas.jpg)
 
 This guide is meant to walk you through what Plex is, what it can do, and a few first steps that are suggested before you stream or request any media.
 
