@@ -1,17 +1,10 @@
 ---
-title: Home
-hide_table_of_contents: true
-sidebar_position: 1
-image: img/plex-nas.jpg
-slug: /
+title: Additional Info (for nerds)
+sidebar_position: 4
 last_update:
-  date: 2024-04-30T23:07-04:00
+  date: 2024-05-01T03:07-04:00
   author: Andrew Shaffer
 ---
-
-## Plex User Guide
-
-![plex-nas](/img/plex-nas.png#center)
 
 This guide is meant to walk you through what Plex is, what it can do, and a few first steps that are suggested before you stream or request any media.
 
