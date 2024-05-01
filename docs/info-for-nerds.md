@@ -44,7 +44,7 @@ sequenceDiagram
   User->>Plex: User watches movie
 ```
 
-### NEW Series Processing Using Overseerr
+### Series Processing Using Overseerr
 
 ```mermaid
 sequenceDiagram
