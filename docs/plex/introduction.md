@@ -1,6 +1,9 @@
 ---
 title: Introduction to Plex
 sidebar_position: 1
+last_update:
+  date: 5/1/2024
+  author: Andrew Shaffer
 ---
 
 # Introduction to Plex

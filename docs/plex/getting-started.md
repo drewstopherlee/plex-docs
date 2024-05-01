@@ -3,6 +3,9 @@ title: Getting Started
 sidebar_position: 2
 description: “Oh yeah, it's all coming together...”
 hide_table_of_contents: true
+last_update:
+  date: 5/1/2024
+  author: Andrew Shaffer
 ---
 
 If you're here, you were probably invited to join my Plex server. The first step is to send me the email address you will use to create your free Plex account. If you've already done this: excellent, continue reading!
