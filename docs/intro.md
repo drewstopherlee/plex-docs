@@ -5,7 +5,7 @@ sidebar_position: 1
 image: img/plex-nas.jpg
 slug: /
 last_update:
-  date: 5/1/2024
+  date: 2024-04-30T23:07-04:00
   author: Andrew Shaffer
 ---
 

@@ -1,10 +1,10 @@
 ---
 title: Libraries
 sidebar_position: 4
-description: ...not the book kind
+description: “But we've looked a hundred times!” “Not in the restricted section. Happy Christmas.”
 hide_table_of_contents: true
 last_update:
-  date: 5/1/2024
+  date: 2024-04-30T23:07-04:00
   author: Andrew Shaffer
 ---
 
