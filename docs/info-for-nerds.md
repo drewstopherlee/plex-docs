@@ -1,8 +1,7 @@
 ---
-title: Introduction
+title: Additional Info (for nerds)
 hide_table_of_contents: true
-sidebar_position: 1
-image: img/plex-nas.jpg
+sidebar_position: 4
 slug: /
 ---
 
