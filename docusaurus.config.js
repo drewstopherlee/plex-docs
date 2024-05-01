@@ -68,23 +68,23 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'img/plex-nas.jpg',
       navbar: {
         title: 'Plex Docs',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          alt: 'Plex Docs',
+          src: 'img/favicon.ico',
         },
         items: [
           {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Documentation',
           },
           // {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/drewstopherlee/plex-docs',
             label: 'GitHub',
             position: 'right',
           },
