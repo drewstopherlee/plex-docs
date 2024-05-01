@@ -37,7 +37,7 @@ If you request a movie that is not released yet, Overseerr will still process th
 
 :::
 
-While viewing a movie in Overseerr, you may notice a bar that links to a film's collection. For example, if you search "tremors" and view the info page for *Tremors* (1990), there will be a link to "Tremors Collection" near the top of the page. If you click on this link, it will show you the entire franchise of whichever film you searched and allow you to request an entire collection at once.
+While viewing a movie in Overseerr, you may notice a bar that links to a film's collection. For example, if you search "tremors" and view the info page for *Tremors* (1990), there will be a link to "Tremors Collection" above the information table (Status, Release Date, etc.). If you click on this link, it will show you the entire franchise of whichever film you searched and allow you to request an entire collection at once.
 
 ### Requesting TV Series
 
@@ -53,7 +53,7 @@ If you'd like a specific season to be downloaded, i.e. the most recent season, p
 
 ## Checking Requests
 
-You can view active requests by clicking/tapping on Requests in the sidebar. Here you will find some additional information on your active requests and the requests of others. Here's what each of the "Status" items mean:
+You can view active requests by clicking/tapping on Requests in the sidebar (or the clock symbol at the bottom). Here you will find some additional information on your active requests and the requests of others. Here's what each of the "Status" items mean:
 
 - **Requested**: The item was requested but it hasn't begun downloading yet.
 - **Pending**: The item is still awaiting approval before it can begin downloading.
