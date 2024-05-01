@@ -5,6 +5,7 @@ collapsed: true # keep the category open by default
 link:
   type: generated-index
   title: Requesting Media & Issues
+  slug: /category/overseerr
 customProps:
   description: The next section of the guide will explain how you can request movies and TV shows, file issues when something isn't right, and more.
 slug: /overseerr
