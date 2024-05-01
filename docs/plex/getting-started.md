@@ -28,16 +28,16 @@ If you decide to use Plex on a mobile device (Android or iOS), you will be limit
 
 :::
 
-Upon first use for most of these platforms, you will either have to log in with your username and password, or link the device with your account when prompted. To link your account, your Smart TV or streaming device will show you a code made of 4 letters or numbers. Simply visit <a href="https://www.plex.tv/link/" target="_blank">plex.tv/link</a> and enter the code (you may have to sign in first if you're not already). This linking process saves you from having to enter your username and password on your TV which can be frustrating.
+Upon first use for most of these platforms, you will either have to log in with your username and password, or link the device with your account when prompted. To link your account, your Smart TV or streaming device will show you a code made of 4 letters or numbers. Simply visit [plex.tv/link](https://www.plex.tv/link/) and enter the code (you may have to sign in first if you're not already). This linking process saves you from having to enter your username and password on your TV which can be frustrating.
 
 Once you've entered the code, your streaming device should sign in automatically after a few seconds.
 
-You can visit the <a href="https://www.plex.tv/media-server-downloads/#plex-app" target="_blank">Plex downloads page</a> to see a list of platforms on which the Plex player is available and be directed on how to install it for your device.
+You can visit the [Plex downloads page](https://www.plex.tv/media-server-downloads/#plex-app) to see a list of platforms on which the Plex player is available and be directed on how to install it for your device.
 
-For convenience, Plex provides an online web client you can use to watch content at <a href="https://app.plex.tv/" target="_blank">app.plex.tv</a>. This makes it easy to catch up on your favorite shows while traveling or away from your preferred devices.
+For convenience, Plex provides an online web client you can use to watch content at [app.plex.tv](https://app.plex.tv/). This makes it easy to catch up on your favorite shows while traveling or away from your preferred devices.
 
 :::danger
 
-Using the web client for media playback **should be avoided** when possible as it is inefficient and puts unnecessary strain on the Plex server hardware. There is a Plex app available for <a href="https://www.plex.tv/media-server-downloads/?cat=plex+desktop&plat=windows" target="_blank">Windows</a>, <a href="https://www.plex.tv/media-server-downloads/?cat=plex+desktop&plat=macos" target="_blank">macOS</a>, and <a href="https://www.plex.tv/media-server-downloads/?cat=plex+desktop&plat=linux" target="_blank">Linux</a>; these are preferred over the web client!
+Using the web client for media playback **should be avoided** when possible as it is inefficient and puts unnecessary strain on the Plex server hardware. There is a Plex app available for [Windows](https://www.plex.tv/media-server-downloads/?cat=plex+desktop&plat=windows), [macOS](https://www.plex.tv/media-server-downloads/?cat=plex+desktop&plat=macos), and [Linux](https://www.plex.tv/media-server-downloads/?cat=plex+desktop&plat=linux); these are preferred over the web client!
 
 :::
