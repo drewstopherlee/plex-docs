@@ -1,14 +1,14 @@
 ---
 title: Getting Started
 sidebar_position: 2
-description: "'Oh yeah, it's all coming together...'"
+description: ""Oh yeah, it's all coming together...""
 ---
 
 If you're here, you were probably invited to join my Plex server. The first step is to send me the email address you will use to create your free Plex account. If you've already done this: excellent, continue reading!
 
 Shortly after, you'll receive an email inviting you to join my server. Click the link in the email to accept the invitation and create your account at Plex. Once logged in, you may be asked to "Sync Watch State." I recommend enabling this feature, as it tracks your watch progress and allows you to start watching on one device and pick up on another. It also adds a "Continue Watching" section to your Home screen.
 
-Please don't share the account you create with others. If you know someone who you think would enjoy having access to this server, have them contact me. In most cases I'll be happy to add them with their own account. 
+Please don't share the account you create with others. If you know someone who you think would enjoy having access to this server, have them contact me. In most cases I'll be happy to add them with their own account.
 
 :::info
 
@@ -30,7 +30,7 @@ Once you've entered the code, your streaming device should sign in automatically
 
 You can visit the <a href="https://www.plex.tv/media-server-downloads/#plex-app" target="_blank">Plex downloads page</a> to see a list of platforms on which the Plex player is available and be directed on how to install it for your device.
 
-For convenience, Plex provides an online web client you can use to watch content at <a href="https://app.plex.tv/" target="_blank">app.plex.tv</a>. This makes it easy to catch up on your favorite shows while traveling or away from your preferred devices. 
+For convenience, Plex provides an online web client you can use to watch content at <a href="https://app.plex.tv/" target="_blank">app.plex.tv</a>. This makes it easy to catch up on your favorite shows while traveling or away from your preferred devices.
 
 :::danger
 
