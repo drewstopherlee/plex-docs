@@ -8,7 +8,7 @@ slug: /
 
 # Plex User Guide
 
-![plex-nas](/img/plex-nas.jpg)
+![plex-nas](/img/plex-nas.png)
 
 This guide is meant to walk you through what Plex is, what it can do, and a few first steps that are suggested before you stream or request any media.
 
