@@ -6,8 +6,6 @@ last_update:
   author: Andrew Shaffer
 ---
 
-# Introduction to Plex
-
 ## So what is Plex anyway?
 
 You can think of Plex as a streaming service like Netflix or Hulu that is operated by someone you know instead of a huge company. What this means is that they have complete control over what content is available, and can often obtain shows and movies that you're looking for (even if they aren't available on other streaming platforms).

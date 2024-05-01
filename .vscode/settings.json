@@ -1,5 +1,8 @@
 {
     "yaml.schemas": {
         "https://json.schemastore.org/github-workflow.json": "file:///c%3A/Users/Andrew/GitHub/plex-docs/.github/workflows/deploy.yml"
-    }
+    },
+    "cSpell.words": [
+        "Overseerr"
+    ]
 }

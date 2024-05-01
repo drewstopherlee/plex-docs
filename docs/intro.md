@@ -11,7 +11,7 @@ last_update:
 
 # Plex User Guide
 
-![plex-nas](/img/plex-nas.png)
+![plex-nas](/img/plex-nas.png#center)
 
 This guide is meant to walk you through what Plex is, what it can do, and a few first steps that are suggested before you stream or request any media.
 
