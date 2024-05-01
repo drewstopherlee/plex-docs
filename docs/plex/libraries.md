@@ -1,7 +1,7 @@
 ---
 title: Libraries
 sidebar_position: 4
-description: “But we've looked a hundred times!” “Not in the restricted section. Happy Christmas.”
+description: “But we've looked a hundred times!” “Not in the restricted section.”
 hide_table_of_contents: true
 last_update:
   date: 2024-04-30T23:07-04:00

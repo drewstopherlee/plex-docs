@@ -1,6 +1,7 @@
 ---
 title: Introduction to Plex
 sidebar_position: 1
+description: “...you stay in Wonderland, and I show you how deep the rabbit hole goes.”
 last_update:
   date: 2024-04-30T23:55-04:00
   author: Andrew Shaffer
