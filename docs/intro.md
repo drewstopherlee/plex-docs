@@ -9,7 +9,7 @@ last_update:
   author: Andrew Shaffer
 ---
 
-# Plex User Guide
+## Plex User Guide
 
 ![plex-nas](/img/plex-nas.png#center)
 
