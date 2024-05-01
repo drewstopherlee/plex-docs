@@ -29,4 +29,4 @@ You can use Plex to stream content anywhere *without* worrying about copyright n
 
 ## How does all of this stuff work?
 
-I run multiple servers from my home that provides Plex, Overseerr, and all of the backend services that help everything download and process smoothly. If you want more information on the logistics of my setup, you can check out the (Additional Info (for nerds) page)[/info-for-nerds]
+I run multiple servers from my home that provides Plex, Overseerr, and all of the backend services that help everything download and process smoothly. If you want more information on the logistics of my setup, you can check out the [Additional Info (for nerds) page](/info-for-nerds)
