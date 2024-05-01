@@ -3,7 +3,7 @@ title: Navigation
 sidebar_position: 5
 description: “According to the map, we've only gone four inches.”
 last_update:
-  date: 2023-07-31T20:37:00-04:00
+  date: 2024-05-01T03:06-04:00
   author: Andrew Shaffer
 ---
 
@@ -63,10 +63,35 @@ If you notice that an item has an HDR overlay and appears very dark on your disp
 
 ### Examples
 
-| Movies (version 1)                          | Movies (version 2)                          |
-| ![Movie Overlays 1](./img/overlays-1.png)   | ![Movie Overlays 2](./img/overlays-2.png)   |
-| TV Shows                                    | TV Episodes                                 |
-| ![TV Overlays](./img/overlays-3.png)        | ![Episode Overlays](./img/overlays-4.png)   |
+<details>
+  <summary>Movie Overlays</summary>
+  <div>
+    <details>
+      <summary>
+        Example 1
+      </summary>
+      <div>![Movie Overlays 1](./img/overlays-1.png)</div>
+    </details>
+    <details>
+      <summary>
+        Example 2
+      </summary>
+      <div>![Movie Overlays 2](./img/overlays-2.png)</div>
+    </details>
+  </div>
+</details>
+<details>
+  <summary>TV Show Overlays</summary>
+  <div>
+    ![TV Overlays](./img/overlays-3.png)
+  </div>
+</details>
+<details>
+  <summary>TV Episode Overlays</summary>
+  <div>
+    ![Episode Overlays](./img/overlays-4.png)
+  </div>
+</details>
 
 If you have ideas for other overlays, please feel free to let me know!
 
