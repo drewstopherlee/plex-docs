@@ -116,11 +116,11 @@ const config = {
               },
               {
                 label: 'Plex User Guide',
-                to: '/plex/introduction',
+                to: '/category/plex',
               },
               {
                 label: 'Overseerr User Guide',
-                to: '/overseerr/requests',
+                to: '/category/overseerr',
               },
             ],
           },
