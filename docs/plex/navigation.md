@@ -70,26 +70,26 @@ If you notice that an item has an HDR overlay and appears very dark on your disp
       <summary>
         Example 1
       </summary>
-      <div>![Movie Overlays 1](./img/overlays-1.png)</div>
+      <div>![Movie Overlays 1](./img/overlays-1.png#center)</div>
     </details>
     <details>
       <summary>
         Example 2
       </summary>
-      <div>![Movie Overlays 2](./img/overlays-2.png)</div>
+      <div>![Movie Overlays 2](./img/overlays-2.png#center)</div>
     </details>
   </div>
 </details>
 <details>
   <summary>TV Show Overlays</summary>
   <div>
-    ![TV Overlays](./img/overlays-3.png)
+    ![TV Overlays](./img/overlays-3.png#center)
   </div>
 </details>
 <details>
   <summary>TV Episode Overlays</summary>
   <div>
-    ![Episode Overlays](./img/overlays-4.png)
+    ![Episode Overlays](./img/overlays-4.png#center)
   </div>
 </details>
 
