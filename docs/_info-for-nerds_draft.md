@@ -6,4 +6,3 @@ last_update:
   author: Andrew Shaffer
 ---
 
-This section is coming soon, I swear!
