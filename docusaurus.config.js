@@ -22,6 +22,8 @@ const config = {
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'drewstopherlee', // Usually your GitHub org/user name.
   projectName: 'plex-docs', // Usually your repo name.
+  deploymentBranch: 'gh-pages', // The name of the deployment branch.
+  trailingSlash: false,
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
