@@ -6,6 +6,13 @@ last_update:
   author: Andrew Shaffer
 ---
 
+## 30-day Uptimes
+
+| [![Plex Uptime](https://uptime.shaffer.network/api/badge/10/uptime/720?labelPrefix=Plex+Uptime+&label=(30d)&style=for-the-badge)](https://status.shaffer.media/) | [![Overseerr Uptime](https://uptime.shaffer.network/api/badge/54/uptime/720?labelPrefix=Overseerr+Uptime+&label=(30d)&style=for-the-badge)](https://status.shaffer.media/) | [![qBittorrent Uptime](https://uptime.shaffer.network/api/badge/60/uptime/720?labelPrefix=qBittorrent+Uptime+&label=(30d)&style=for-the-badge)](https://status.shaffer.media/) |
+|---|---|---|
+| [![Radarr HD Uptime](https://uptime.shaffer.network/api/badge/122/uptime/720?labelPrefix=Radarr+HD+Uptime+&label=(30d)&style=for-the-badge)](https://status.shaffer.media/) | [![Sonarr HD Uptime](https://uptime.shaffer.network/api/badge/119/uptime/720?labelPrefix=Sonarr+HD+Uptime+&label=(30d)&style=for-the-badge)](https://status.shaffer.media/) | [![Prowlarr Uptime](https://uptime.shaffer.network/api/badge/124/uptime/720?labelPrefix=Prowlarr+Uptime+&label=(30d)&style=for-the-badge)](https://status.shaffer.media/) |
+| [![Radarr 4K Uptime](https://uptime.shaffer.network/api/badge/121/uptime/720?labelPrefix=Radarr+4K+Uptime+&label=(30d)&style=for-the-badge)](https://status.shaffer.media/) | [![Sonarr 4K Uptime](https://uptime.shaffer.network/api/badge/120/uptime/720?labelPrefix=Sonarr+4K+Uptime+&label=(30d)&style=for-the-badge)](https://status.shaffer.media/) | [![Bazarr Uptime](https://uptime.shaffer.network/api/badge/58/uptime/720?labelPrefix=Bazarr+Uptime+&label=(30d)&style=for-the-badge)](https://status.shaffer.media/) |
+
 ## System Diagrams
 
 ### Movie Processing Using Overseerr
