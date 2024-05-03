@@ -15,7 +15,7 @@ last_update:
 
 This guide is meant to walk you through what Plex is, what it can do, and a few first steps that are suggested before you stream or request any media.
 
-![Plex Uptime](https://uptime.shaffer.network/api/badge/10/uptime/720?labelPrefix=Plex+&label=30&labelSuffix=d&style=for-the-badge)
+![Plex Uptime](https://uptime.shaffer.network/api/badge/10/uptime/720?labelPrefix=Plex+Uptime+&label=(30d)&style=for-the-badge) ![Overseerr Uptime](https://uptime.shaffer.network/api/badge/54/uptime/720?labelPrefix=Overseerr+Uptime+&label=(30d)&style=for-the-badge)
 
 :::info
 
