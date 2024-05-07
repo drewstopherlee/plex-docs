@@ -31,7 +31,7 @@ The rest of the Collections tab is for movie series, i.e. Iron Man (includes Iro
 
 :::tip
 
-Please note that if a movie is in a "film series" collection, they will typically be hidden from the rest of the library while browsing alphabetically. This means that **some movies may seem like they're missing** because the title of the collection doesn't match the title of the movies. For example, the films *Elektra* and *Daredevil* are in a collection titled, "Daredevil," and the films *Willy Wonka & the Chocolate Factory* and *Charlie and the Chocolate Factory* are in a collection titled, "The Chocolate Factory Collection."
+Please note that if a movie is in a "film series" collection, they will typically be hidden from the rest of the library while browsing alphabetically. This means that **some movies may seem like they're missing** because the title of the collection doesn't match the title of the movies. For example, the films *Elektra* and *Daredevil* are in a collection titled, "Daredevil," and the films *Willy Wonka & the Chocolate Factory*, *Charlie and the Chocolate Factory*, and *Wonka* are in a collection titled, "Willy Wonka Collection."
 
 :::
 
