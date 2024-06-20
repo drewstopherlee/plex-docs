@@ -19,6 +19,10 @@ This guide is meant to walk you through what Plex is, what it can do, and a few 
 
 :::info
 
-Please keep in mind that I operate this Plex server as a hobby, and I have multiple friends and family members that use the server. The best way to get support is to reach out to me directly or on the 'Plex Users' group chat.
+Please keep in mind that I operate this Plex server as a hobby, and I have multiple friends and family members that use the server. The best way to get support is to reach out to me directly or on the 'Plex Users' group chat on Messenger.
 
 :::
+
+As an aside, access to my Plex server will always be free of charge. However, if you would like to support the cause by contributing to my hard drive fund (used to purchase new hard drives needed to replace failing drives or increase storage capacity), my Cash App information is below:
+
+[![Cash App](img/cashapp.png)](https://cash.app/$drewstopherlee)
