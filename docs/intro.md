@@ -23,6 +23,5 @@ Please keep in mind that I operate this Plex server as a hobby, and I have multi
 
 :::
 
-As an aside, access to my Plex server will always be free of charge. However, if you would like to support the cause by contributing to my hard drive fund (used to purchase new hard drives needed to replace failing drives or increase storage capacity), my Cash App information is below:
-
-[![Cash App](/img/cashapp.png)](https://cash.app/$drewstopherlee)
+| As an aside, access to my Plex server will always be free of charge. However, if you would like to support the cause by contributing to my hard drive fund (used to purchase new hard drives needed to replace failing drives or increase storage capacity), my Cash App information is here: | [![Cash App](/img/cashapp.png)](https://cash.app/$drewstopherlee) |
+|---|---|
