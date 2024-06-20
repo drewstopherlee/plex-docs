@@ -141,6 +141,10 @@ const config = {
                 label: 'Twitter',
                 href: 'https://twitter.com/andrewrshaffer',
               },
+              {
+                label: 'Donate',
+                href: 'https://cash.app/$drewstopherlee',
+              },
             ],
           },
           // {
