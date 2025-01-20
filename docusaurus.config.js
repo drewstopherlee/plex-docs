@@ -104,8 +104,8 @@ const config = {
           },
           // {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/drewstopherlee/plex-docs',
-            label: 'GitHub',
+            href: 'https://www.buymeacoffee.com/drewstopherlee',
+            label: 'Donate',
             position: 'right',
           },
         ],
@@ -143,7 +143,7 @@ const config = {
               },
               {
                 label: 'Donate',
-                href: 'https://cash.app/$drewstopherlee',
+                href: 'https://www.buymeacoffee.com/drewstopherlee',
               },
             ],
           },
