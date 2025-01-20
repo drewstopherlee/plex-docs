@@ -15,7 +15,7 @@ last_update:
 
 This guide is meant to walk you through what Plex is, what it can do, and a few first steps that are suggested before you stream or request any media.
 
-![Plex Uptime](https://uptime.shaffer.network/api/badge/10/uptime/720?labelPrefix=Plex+Uptime+&label=(30d)&style=for-the-badge) ![Overseerr Uptime](https://uptime.shaffer.network/api/badge/54/uptime/720?labelPrefix=Overseerr+Uptime+&label=(30d)&style=for-the-badge)
+![Plex Uptime](https://uptime.shaffer.network/api/badge/207/uptime/720?labelPrefix=Plex+Uptime+&label=(30d)&style=for-the-badge) ![Overseerr Uptime](https://uptime.shaffer.network/api/badge/196/uptime/720?labelPrefix=Overseerr+Uptime+&label=(30d)&style=for-the-badge)
 
 :::info
 
@@ -23,7 +23,7 @@ Please keep in mind that I operate this Plex server as a hobby, and I have multi
 
 :::
 
-| As an aside, access to my Plex server will always be free of charge. However, if you would like to support me, there is information below: |
+| As an aside, access to my Plex server will always be free of charge. However, if you would like to support me, you can use the QR codes/links below: |
 |:-:|
 | [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/drewstopherlee) |
 | [![Cash App](/img/cashapp.png)](https://cash.app/$drewstopherlee) [![Cash App](/img/bmc_qr.png)](https://www.buymeacoffee.com/drewstopherlee) |
