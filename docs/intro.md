@@ -23,7 +23,7 @@ Please keep in mind that I operate this Plex server as a hobby, and I have multi
 
 :::
 
-| As an aside, access to my Plex server will always be free of charge. However, if you would like to support me, you can use the QR codes/links below: |
+| As an aside, access to my Plex server will <u>*always*</u> be free of charge. However, if you would like to support me, you can use the QR codes/links below: |
 |:-:|
-| [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/drewstopherlee) |
-| [![Cash App](/img/cashapp.png)](https://cash.app/$drewstopherlee) [![Cash App](/img/bmc_qr.png)](https://www.buymeacoffee.com/drewstopherlee) |
+| [!["Buy Me A Coffee"](https://img.shields.io/badge/-buy_me_a_coffee-ff813f?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/drewstopherlee) [!["Cash App"](https://img.shields.io/badge/cash_app-00d650?style=for-the-badge&logo=cash-app&logoColor=white)](https://cash.app/$drewstopherlee) |
+| [![Buy Me A Coffee](/img/bmc_qr.png)](https://www.buymeacoffee.com/drewstopherlee) [![Cash App](/img/cashapp.png)](https://cash.app/$drewstopherlee) |
