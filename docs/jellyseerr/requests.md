@@ -7,11 +7,11 @@ last_update:
   author: Andrew Shaffer
 ---
 
-Overseerr is used primarily as a way for you to request media to be added to Plex. All requests must be approved before they begin downloading, and TV requests may take a little longer as they typically have to be downloaded one season at a time.
+Jellyseerr is used primarily as a way for you to request media to be added to Plex. All requests must be approved before they begin downloading, and TV requests may take a little longer as they typically have to be downloaded one season at a time.
 
 :::warning
 
-Please be aware that requests made using Overseerr are visible to **all other users** of Overseerr.
+Please be aware that requests made using Jellyseerr are visible to **all other users** of Jellyseerr.
 
 :::
 
@@ -33,11 +33,11 @@ Once you've found an item you'd like to request, you can either click/tap the Re
 
 :::info
 
-If you request a movie that is not released yet, Overseerr will still process the request, but the movie **may not be immediately available** in Plex. Typically, once a digital copy can be found (around the time it is released online for purchase or streaming), it will download automatically and import into Plex.
+If you request a movie that is not released yet, Jellyseerr will still process the request, but the movie **may not be immediately available** in Plex. Typically, once a digital copy can be found (around the time it is released online for purchase or streaming), it will download automatically and import into Plex.
 
 :::
 
-While viewing a movie in Overseerr, you may notice a bar that links to a film's collection. For example, if you search "tremors" and view the info page for *Tremors* (1990), there will be a link to "Tremors Collection" above the information table (Status, Release Date, etc.). If you click on this link, it will show you the entire franchise of whichever film you searched and allow you to request an entire collection at once.
+While viewing a movie in Jellyseerr, you may notice a bar that links to a film's collection. For example, if you search "tremors" and view the info page for *Tremors* (1990), there will be a link to "Tremors Collection" above the information table (Status, Release Date, etc.). If you click on this link, it will show you the entire franchise of whichever film you searched and allow you to request an entire collection at once.
 
 ### Requesting TV Series
 
@@ -64,12 +64,12 @@ You can view active requests by clicking/tapping on Requests in the sidebar (or 
 
 ### Declined Requests
 
-On the rare[^1] occasion I decline a request, unfortunately I can't specify a reason within Overseerr as to why. So if I don't reach out specifically about your declined request, here's a list of common reasons why I will decline a request.
+On the rare[^1] occasion I decline a request, unfortunately I can't specify a reason within Jellyseerr as to why. So if I don't reach out specifically about your declined request, here's a list of common reasons why I will decline a request.
 
 - **The request is for a short film**: As a general rule, I typically don't approve short films for Plex because they can be tricky to find and can be mistakenly requested (i.e., users think it's a feature-length movie).
-- **The request has no release date**: Usually, when there is no release date on an item in Overseerr, that means it is not a confirmed production (i.e., speculated sequels to a film that haven't been officially announced). Sometimes, this is not accurate, so if you believe this decision was made in error, please contact me.
-- **The request is a film that's available as a "Special" in a TV series**: Sometimes films that are part of a series's franchise will be listed in Overseerr as separate films and not as part of the series itself. Since Overseerr doesn't allow requests for "Specials" episodes of a show, I will manually mark that special as wanted for download and decline the movie request.
+- **The request has no release date**: Usually, when there is no release date on an item in Jellyseerr, that means it is not a confirmed production (i.e., speculated sequels to a film that haven't been officially announced). Sometimes, this is not accurate, so if you believe this decision was made in error, please contact me.
+- **The request is a film that's available as a "Special" in a TV series**: Sometimes films that are part of a series's franchise will be listed in Jellyseerr as separate films and not as part of the series itself. Since Jellyseerr doesn't allow requests for "Specials" episodes of a show, I will manually mark that special as wanted for download and decline the movie request.
 - **The request is a series with daily episodes**: For some shows (talk shows, Jeopardy and other game shows, The Daily Show, to name a few), there is such a massive back catalog of episodes that it's not feasible for me to download and store all of them (which is my goal with everything on Plex). The only exception I've made to this is Saturday Night Live (which is over a terabyte by itself).
-- **The request is a duplicate entry**: Sometimes, a film or series will be listed as two separate items in Overseerr. This is not a common thing, but one recent example is *Monsters: The Lyle and Erik Menendez Story (2024)*. This was listed as its own series in Overseerr, but it is considered the second season of the series *Monster*, the first season being *Monster: The Jeffrey Dahmer Story*. In such a case, I will decline the request, download the missing season, and mark the separate series as available.
+- **The request is a duplicate entry**: Sometimes, a film or series will be listed as two separate items in Jellyseerr. This is not a common thing, but one recent example is *Monsters: The Lyle and Erik Menendez Story (2024)*. This was listed as its own series in Jellyseerr, but it is considered the second season of the series *Monster*, the first season being *Monster: The Jeffrey Dahmer Story*. In such a case, I will decline the request, download the missing season, and mark the separate series as available.
 
 [^1]: It's *VERY* rare. As of Oct. 1, 2024, of the 2,869 requests I've processed, only 33 have been declined (about 1.15%).

@@ -8,7 +8,7 @@ last_update:
   author: Andrew Shaffer
 ---
 
-One of the other features of Overseerr is that it allows you to file issues with media items. This allows you to let me know that there is something wrong with a movie or TV series that needs addressing. To file an issue, please follow these steps:
+One of the other features of Jellyseerr is that it allows you to file issues with media items. This allows you to let me know that there is something wrong with a movie or TV series that needs addressing. To file an issue, please follow these steps:
 
 1. Search for the problem item (i.e., the movie or show that's not playing properly).
 2. Click the yellow "Report an Issue" button (it may look like a yellow warning sign on some devices).

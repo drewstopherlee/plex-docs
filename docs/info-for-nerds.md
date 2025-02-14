@@ -11,7 +11,7 @@ last_update:
 | Service     | Uptime (24h)                                                                                                                                    | Uptime (30d)                                                                                                                                                                       | Response Time (24h)                                                                                                                                    |
 |-------------|-------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [Plex](https://app.plex.tv/)        | [![Plex Uptime over 24 Hours](https://uptime.shaffer.network/api/badge/207/uptime?style=for-the-badge)](https://status.shaffer.media/)        | [![Plex Uptime over 30 Days](https://uptime.shaffer.network/api/badge/207/uptime/720?labelPrefix=Uptime+&label=(30d)&style=for-the-badge)](https://status.shaffer.media/)        | [![Plex Average Response Time](https://uptime.shaffer.network/api/badge/208/avg-response?style=for-the-badge)](https://status.shaffer.media/)        |
-| [Overseerr](https://request.shaffer.media)   | [![Overseerr Uptime over 24 Hours](https://uptime.shaffer.network/api/badge/196/uptime?style=for-the-badge)](https://status.shaffer.media/)   | [![Overseerr Uptime over 30 Days](https://uptime.shaffer.network/api/badge/196/uptime/720?labelPrefix=Uptime+&label=(30d)&style=for-the-badge)](https://status.shaffer.media/)   | [![Overseerr Average Response Time](https://uptime.shaffer.network/api/badge/197/avg-response?style=for-the-badge)](https://status.shaffer.media/)   |
+| [Jellyseerr](https://request.shaffer.media)   | [![Jellyseerr Uptime over 24 Hours](https://uptime.shaffer.network/api/badge/196/uptime?style=for-the-badge)](https://status.shaffer.media/)   | [![Jellyseerr Uptime over 30 Days](https://uptime.shaffer.network/api/badge/196/uptime/720?labelPrefix=Uptime+&label=(30d)&style=for-the-badge)](https://status.shaffer.media/)   | [![Jellyseerr Average Response Time](https://uptime.shaffer.network/api/badge/197/avg-response?style=for-the-badge)](https://status.shaffer.media/)   |
 | [MovieMatch](https://match.shaffer.media)  | [![MovieMatch Uptime over 24 Hours](https://uptime.shaffer.network/api/badge/188/uptime?style=for-the-badge)](https://status.shaffer.media/)  | [![MovieMatch Uptime over 30 Days](https://uptime.shaffer.network/api/badge/188/uptime/720?labelPrefix=Uptime+&label=(30d)&style=for-the-badge)](https://status.shaffer.media/)  | [![MovieMatch Average Response Time](https://uptime.shaffer.network/api/badge/189/avg-response?style=for-the-badge)](https://status.shaffer.media/)  |
 | [Wrapperr](https://wrapped.shaffer.media)    | [![Wrapperr Uptime over 24 Hours](https://uptime.shaffer.network/api/badge/255/uptime?style=for-the-badge)](https://status.shaffer.media/)    | [![Wrapperr Uptime over 30 Days](https://uptime.shaffer.network/api/badge/255/uptime/720?labelPrefix=Uptime+&label=(30d)&style=for-the-badge)](https://status.shaffer.media/)    | [![Wrapperr Average Response Time](https://uptime.shaffer.network/api/badge/256/avg-response?style=for-the-badge)](https://status.shaffer.media/)    |
 | [Wizarr](https://join.shaffer.media)      | [![Wizarr Uptime over 24 Hours](https://uptime.shaffer.network/api/badge/251/uptime?style=for-the-badge)](https://status.shaffer.media/)      | [![Wizarr Uptime over 30 Days](https://uptime.shaffer.network/api/badge/251/uptime/720?labelPrefix=Uptime+&label=(30d)&style=for-the-badge)](https://status.shaffer.media/)      | [![Wizarr Average Response Time](https://uptime.shaffer.network/api/badge/252/avg-response?style=for-the-badge)](https://status.shaffer.media/)      |
@@ -37,14 +37,14 @@ last_update:
 
 ## System Diagrams
 
-### Movie Processing Using Overseerr
+### Movie Processing Using Jellyseerr
 
 ```mermaid
 sequenceDiagram
   autonumber
   box Frontend
   actor User
-  participant Overseerr
+  participant Jellyseerr
   participant Plex
   end
   actor Admin
@@ -54,10 +54,10 @@ sequenceDiagram
   participant Prowlarr
   participant qBittorrent
   end
-  User->>Overseerr: User requests a movie
-  activate Overseerr
-  Admin->>Overseerr: Admin approves request
-  Overseerr-->>Radarr / 4K: Movie request sent to Radarr
+  User->>Jellyseerr: User requests a movie
+  activate Jellyseerr
+  Admin->>Jellyseerr: Admin approves request
+  Jellyseerr-->>Radarr / 4K: Movie request sent to Radarr
   Radarr / 4K-->>Prowlarr: Radarr searches for torrent via Prowlarr
   Prowlarr-->>Radarr / 4K: Prowlarr returns search results
   Radarr / 4K-->>qBittorrent: Best result is sent to torrent client
@@ -67,20 +67,20 @@ sequenceDiagram
   deactivate qBittorrent
   Radarr / 4K-->>File Storage: Moves media to Plex directory
   File Storage-->>Plex: Plex scans library for new media
-  Radarr / 4K-->>Overseerr: Overseerr is alerted of media availability
-  Overseerr->>User: Notification sent
-  deactivate Overseerr
+  Radarr / 4K-->>Jellyseerr: Jellyseerr is alerted of media availability
+  Jellyseerr->>User: Notification sent
+  deactivate Jellyseerr
   User->>Plex: User watches movie
 ```
 
-### Series Processing Using Overseerr
+### Series Processing Using Jellyseerr
 
 ```mermaid
 sequenceDiagram
   autonumber
   box Frontend
   actor User
-  participant Overseerr
+  participant Jellyseerr
   participant Plex
   end
   actor Admin
@@ -90,9 +90,9 @@ sequenceDiagram
   participant Prowlarr
   participant qBittorrent
   end
-  User->>Overseerr: User requests a series
-  Admin->>Overseerr: Admin approves request
-  Overseerr-->>Sonarr / 4K: Series request sent to Sonarr
+  User->>Jellyseerr: User requests a series
+  Admin->>Jellyseerr: Admin approves request
+  Jellyseerr-->>Sonarr / 4K: Series request sent to Sonarr
   Admin-->>Sonarr / 4K: Admin manually searches for seasons/episodes
   Prowlarr-->>Sonarr / 4K: Prowlarr returns search results
   Sonarr / 4K-->>qBittorrent: Chosen result is sent to torrent client
@@ -102,8 +102,8 @@ sequenceDiagram
   deactivate qBittorrent
   Sonarr / 4K-->>File Storage: Moves media to Plex directory
   File Storage-->>Plex: Plex scans library for new media
-  Sonarr / 4K-->>Overseerr: Overseerr is alerted of media availability
-  Overseerr->>User: Notification sent<br/>(if ALL requested episodes available)
+  Sonarr / 4K-->>Jellyseerr: Jellyseerr is alerted of media availability
+  Jellyseerr->>User: Notification sent<br/>(if ALL requested episodes available)
   User->>Plex: User watches show
   Sonarr / 4K-->>Prowlarr: Sonarr searches for new episodes
   Prowlarr-->>Sonarr / 4K: Prowlarr returns search results
@@ -114,7 +114,7 @@ sequenceDiagram
   deactivate qBittorrent
   Sonarr / 4K-->>File Storage: Moves media to Plex directory
   File Storage-->>Plex: Plex scans library for new media
-  Sonarr / 4K-->>Overseerr: Overseerr is alerted of media availability
-  Overseerr->>User: Notification sent<br/>(if not notified earlier)
+  Sonarr / 4K-->>Jellyseerr: Jellyseerr is alerted of media availability
+  Jellyseerr->>User: Notification sent<br/>(if not notified earlier)
   User->>Plex: User watches latest episode
 ```
