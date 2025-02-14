@@ -94,7 +94,7 @@ const config = {
           },
           {
             href: 'https://request.shaffer.media/',
-            label: 'Overseerr',
+            label: 'Jellyseerr',
             position: 'left',
           },
           {
@@ -125,8 +125,8 @@ const config = {
                 to: '/category/plex',
               },
               {
-                label: 'Overseerr User Guide',
-                to: '/category/overseerr',
+                label: 'Jellyseerr User Guide',
+                to: '/category/jellyseerr',
               },
             ],
           },
