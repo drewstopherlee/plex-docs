@@ -10,7 +10,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'Plex User Guide',
   tagline: 'Get Started with Using Plex Server',
-  favicon: 'img/favicon.ico',
+  favicon: 'favicon/favicon.ico',
 
   // Set the production url of your site here
   url: 'https://guide.shaffer.media',
@@ -84,7 +84,7 @@ const config = {
         title: 'Plex Docs',
         logo: {
           alt: 'Plex Docs',
-          src: 'img/favicon.ico',
+          src: 'favicon/favicon.ico',
         },
         items: [
           {
