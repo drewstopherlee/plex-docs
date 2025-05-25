@@ -84,7 +84,7 @@ const config = {
         title: 'Plex Docs',
         logo: {
           alt: 'Plex Docs',
-          src: 'favicon/favicon.ico',
+          src: 'favicon/apple-icon.png',
         },
         items: [
           {
